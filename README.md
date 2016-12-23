@@ -19,11 +19,11 @@ Section: 1
 0 / 6
 What is DevOps?
 [x] 1. The Course Overview 7:07
-[ ] 2. Is DevOps for Me? 7:32
-[ ] 3. The First Way – Systems Thinking 8:54
-[ ] 4. The Second Way – Feedback Loops 8:37
-[ ] 5. The Third Way – Culture of Experimentation 8:51
-[ ] 6. The Principle of Kaizen 5:56
+[x] 2. Is DevOps for Me? 7:32
+[x] 3. The First Way – Systems Thinking 8:54
+[x] 4. The Second Way – Feedback Loops 8:37
+[x] 5. The Third Way – Culture of Experimentation 8:51
+[x] 6. The Principle of Kaizen 5:56
 
 Section: 2
 0 / 4
