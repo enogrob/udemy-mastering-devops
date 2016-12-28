@@ -28,34 +28,34 @@ What is DevOps?
 Section: 2
 0 / 4
 The CAMS model – DevOps Thinking
-[ ] 7. CAMS – Culture 8:26
-[ ] 8. CAMS – Automation 6:14
-[ ] 9. CAMS – Measurement 5:26
-[ ] 10. CAMS – Sharing 8:12
+[x] 7. CAMS – Culture 8:26
+[x] 8. CAMS – Automation 6:14
+[x] 9. CAMS – Measurement 5:26
+[x] 10. CAMS – Sharing 8:12
 
 Section: 3
 0 / 5
 Establishing a DevOps Culture
-[ ] 11. Traditional Versus DevOps SDLC 8:23
-[ ] 12. Service Ownership 8:43
-[ ] 13. Hack Events 12:04
-[ ] 14. Destructive Testing 5:15
-[ ] 15. Cross-Functional Teams 5:20
+[x] 11. Traditional Versus DevOps SDLC 8:23
+[x] 12. Service Ownership 8:43
+[x] 13. Hack Events 12:04
+[x] 14. Destructive Testing 5:15
+[x] 15. Cross-Functional Teams 5:20
 
 Section: 4
 0 / 5
 Automation – Configuration Management
-[ ] 16. Why Automate? 9:25
-[ ] 17. Configuration Management with SaltStack 11:09
-[ ] 18. Configuration Management for Distributed Systems 7:19
-[ ] 19. What about Containers? 7:51
-[ ] 20. Building and Running a Docker Container 8:19
+[x] 16. Why Automate? 9:25
+[x] 17. Configuration Management with SaltStack 11:09
+[x] 18. Configuration Management for Distributed Systems 7:19
+[x] 19. What about Containers? 7:51
+[x] 20. Building and Running a Docker Container 8:19
 
 Section: 5
 0 / 5
 Automation – Continuous Delivery
-[ ] 21. What is Continuous Delivery? 9:58
-[ ] 22. Your First Test Environment 10:35
+[x] 21. What is Continuous Delivery? 9:58
+[x] 22. Your First Test Environment 10:35
 [ ] 23. Configuring and Launching with Vagrant 12:47
 [ ] 24. Testing with Serverspec 9:26
 [ ] 25. Am I Ready for Production? 5:43
