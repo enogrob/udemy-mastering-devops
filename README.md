@@ -56,9 +56,9 @@ Section: 5
 Automation – Continuous Delivery
 [x] 21. What is Continuous Delivery? 9:58
 [x] 22. Your First Test Environment 10:35
-[~] 23. Configuring and Launching with Vagrant 12:47
-[ ] 24. Testing with Serverspec 9:26
-[ ] 25. Am I Ready for Production? 5:43
+[x] 23. Configuring and Launching with Vagrant 12:47
+[x] 24. Testing with Serverspec 9:26
+[x] 25. Am I Ready for Production? 5:43
 
 Section: 6
 0 / 5
