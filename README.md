@@ -63,11 +63,11 @@ Automation – Continuous Delivery
 Section: 6
 0 / 5
 Measurement
-[ ] 26. Measurement Concepts 10:53
-[ ] 27. A Tour of Graphite 12:11
-[ ] 28. Getting Your Data into Graphite 13:59
-[ ] 29. Monitoring Agent Examples 8:47
-[ ] 30. Actionable Data 14:41
+[x] 26. Measurement Concepts 10:53
+[x] 27. A Tour of Graphite 12:11
+[x] 28. Getting Your Data into Graphite 13:59
+[x] 29. Monitoring Agent Examples 8:47
+[x] 30. Actionable Data 14:41
 
 Section: 7
 0 / 4
