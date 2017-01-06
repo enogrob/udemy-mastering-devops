@@ -72,10 +72,10 @@ Measurement
 Section: 7
 0 / 4
 Sharing
-[ ] 31. Agile 13:49
-[ ] 32. Learning Reviews 11:32
-[ ] 33. Chatbots 10:08
-[ ] 34. Other Sharing Tools 10:44
+[x] 31. Agile 13:49
+[x] 32. Learning Reviews 11:32
+[x] 33. Chatbots 10:08
+[x] 34. Other Sharing Tools 10:44
 
 Section: 8
 0 / 4
