@@ -80,8 +80,8 @@ Sharing
 Section: 8
 0 / 4
 Where Do I Go From Here?
-[ ] 35. Security/Quality Engineering 9:26
-[ ] 36. Compliance 10:17
-[ ] 37. Sales, Marketing, and Beyond 4:41
-[ ] 38. Becoming a Learning Organization 8:49
+[x] 35. Security/Quality Engineering 9:26
+[x] 36. Compliance 10:17
+[x] 37. Sales, Marketing, and Beyond 4:41
+[x] 38. Becoming a Learning Organization 8:49
 ```
